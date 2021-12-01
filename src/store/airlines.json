@@ -1,0 +1,15 @@
+[
+    {
+        "Name": "*", "Logo":"", "Quality": 0
+    },
+    {"Name":"Aeroflot", "Logo":"../assets/aeroflot.png", "Quality": 6
+    },
+    {"Name":"Ryanair", "Logo": "../assets/ryanair.png", "Quality": 5
+    },
+    {"Name":"Lufthansa", "Logo": "../assets/lufthansa.png", "Quality": 10
+    },
+    {"Name":"AirAsia", "Logo": "../assets/airasia.png", "Quality": 3
+    },
+    {"Name":"Belavia", "Logo": "../assets/belavia.png", "Quality": 1
+    }
+]
