@@ -44,10 +44,6 @@
   </div>
 </template>
 
-
-m.nikitin@bpo.travrel
-bburtonzero@gmail.com
-
 <script>
 import Ticket from "@/components/Ticket.vue";
 
